@@ -11,7 +11,7 @@
     //verify screen
     <string name="verify_phone_msg">WhatsApp will send and SMS message to verify your phone number. Enter your country code and phone number.</string>
     <string-array name="spinner_country">
-        <item>India</item>
+        <item>Italy</item>
     </string-array>
 
 
